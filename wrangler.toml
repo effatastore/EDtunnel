@@ -1,68 +1,68 @@
-name = "sg2"
+name = "sg1"
 main = "_worker.js"
 compatibility_date = "2023-05-26"
 
 [[routes]]
-pattern = "sg2.vipstore.cloud"
+pattern = "sg1.idstore.biz.id"
 custom_domain = true
 
 [[routes]]
-pattern = "ava.game.naver.com.sg2.vipstore.cloud"
+pattern = "ava.game.naver.com.sg1.idstore.biz.id"
 custom_domain = true
 
 [[routes]]
-pattern = "df.game.naver.com.sg2.vipstore.cloud"
+pattern = "df.game.naver.com.sg1.idstore.biz.id"
 custom_domain = true
 
 [[routes]]
-pattern = "blog.webex.com.sg2.vipstore.cloud"
+pattern = "blog.webex.com.sg1.idstore.biz.id"
 custom_domain = true
 
 [[routes]]
-pattern = "zoomcares.zoom.us.sg2.vipstore.cloud"
+pattern = "zoomcares.zoom.us.sg1.idstore.biz.id"
 custom_domain = true
 
 [[routes]]
-pattern = "support.zoom.us.sg2.vipstore.cloud"
+pattern = "support.zoom.us.sg1.idstore.biz.id"
 custom_domain = true
 
 [[routes]]
-pattern = "stage-7.duolingo.com.sg2.vipstore.cloud"
+pattern = "stage-7.duolingo.com.sg1.idstore.biz.id"
 custom_domain = true
 
 [[routes]]
-pattern = "sb.scorecardresearch.com.sg2.vipstore.cloud"
+pattern = "sb.scorecardresearch.com.sg1.idstore.biz.id"
 custom_domain = true
 
 [[routes]]
-pattern = "go.appannie.com.sg2.vipstore.cloud"
+pattern = "go.appannie.com.sg1.idstore.biz.id"
 custom_domain = true
 
 [[routes]]
-pattern = "lipcon.com.sg2.vipstore.cloud"
+pattern = "lipcon.com.sg1.idstore.biz.id"
 custom_domain = true
 
 [[routes]]
-pattern = "img.email1.vidio.com.sg2.vipstore.cloud"
+pattern = "img.email1.vidio.com.sg1.idstore.biz.id"
 custom_domain = true
 
 [[routes]]
-pattern = "img.email2.vidio.com.sg2.vipstore.cloud"
+pattern = "img.email2.vidio.com.sg1.idstore.biz.id"
 custom_domain = true
 
 [[routes]]
-pattern = "img.email3.vidio.com.sg2.vipstore.cloud"
+pattern = "img.email3.vidio.com.sg1.idstore.biz.id"
 custom_domain = true
 
 [[routes]]
-pattern = "api.webex.com.sg2.vipstore.cloud"
+pattern = "api.webex.com.sg1.idstore.biz.id"
 custom_domain = true
 
 [[routes]]
-pattern = "investor.fb.com.sg2.vipstore.cloud"
+pattern = "investor.fb.com.sg1.idstore.biz.id"
 custom_domain = true
 
 
 [vars]
-PROXYIP = "209.97.172.173"
+PROXYIP = "134.209.97.92"
 UUID = "1d30fa45-9d31-4e81-a646-f8c7dbda0c65"
