@@ -1,7 +1,7 @@
-name = "my1"
+name = "id1"
 main = "_worker.js"
 compatibility_date = "2023-05-26"
 
 [vars]
-PROXYIP = "103.75.188.126"
+PROXYIP = "35.219.50.99"
 UUID = "1d30fa45-9d31-4e81-a646-f8c7dbda0c65"
