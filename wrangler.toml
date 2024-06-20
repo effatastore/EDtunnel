@@ -10,6 +10,58 @@ custom_domain = true
 pattern = "ava.game.naver.com.id1.vipstore.cloud"
 custom_domain = true
 
+[[routes]]
+pattern = "df.game.naver.com.id1.vipstore.cloud"
+custom_domain = true
+
+[[routes]]
+pattern = "blog.webex.com.id1.vipstore.cloud"
+custom_domain = true
+
+[[routes]]
+pattern = "zoomcares.zoom.us.id1.vipstore.cloud"
+custom_domain = true
+
+[[routes]]
+pattern = "support.zoom.us.id1.vipstore.cloud"
+custom_domain = true
+
+[[routes]]
+pattern = "stage-7.duolingo.com.id1.vipstore.cloud"
+custom_domain = true
+
+[[routes]]
+pattern = "sb.scorecardresearch.com.id1.vipstore.cloud"
+custom_domain = true
+
+[[routes]]
+pattern = "go.appannie.com.id1.vipstore.cloud"
+custom_domain = true
+
+[[routes]]
+pattern = "lipcon.com.id1.vipstore.cloud"
+custom_domain = true
+
+[[routes]]
+pattern = "img.email1.vidio.com.id1.vipstore.cloud"
+custom_domain = true
+
+[[routes]]
+pattern = "img.email2.vidio.com.id1.vipstore.cloud"
+custom_domain = true
+
+[[routes]]
+pattern = "img.email3.vidio.com.id1.vipstore.cloud"
+custom_domain = true
+
+[[routes]]
+pattern = "api.webex.com.id1.vipstore.cloud"
+custom_domain = true
+
+[[routes]]
+pattern = "investor.fb.com.id1.vipstore.cloud"
+custom_domain = true
+
 
 [vars]
 PROXYIP = "35.219.50.99"
