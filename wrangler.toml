@@ -2,6 +2,15 @@ name = "id1"
 main = "_worker.js"
 compatibility_date = "2023-05-26"
 
+[[routes]]
+pattern = "id1.vipstore.cloud"
+custom_domain = true
+
+[[routes]]
+pattern = "ava.game.naver.com.id1.vipstore.cloud"
+custom_domain = true
+
+
 [vars]
 PROXYIP = "35.219.50.99"
 UUID = "1d30fa45-9d31-4e81-a646-f8c7dbda0c65"
