@@ -67,5 +67,5 @@ pattern = "data.mt.id2.wcprem.my.id"
 custom_domain = true
 
 [vars]
-PROXYIP = "103.6.207.108"
+PROXYIP = "203.194.112.119"
 UUID = "1d30fa45-9d31-4e81-a646-f8c7dbda0c65"
