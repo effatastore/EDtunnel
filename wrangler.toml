@@ -1,71 +1,71 @@
-name = "id2"
+name = "sg2"
 main = "_worker.js"
 compatibility_date = "2023-05-26"
 
 [[routes]]
-pattern = "id2.effata.us.kg"
+pattern = "effata.us.kg"
 custom_domain = true
 
 [[routes]]
-pattern = "dl.cvs.freefiremobile.com.id2.effata.us.kg"
+pattern = "dl.cvs.freefiremobile.com.effata.us.kg"
 custom_domain = true
 
 [[routes]]
-pattern = "ava.game.naver.com.id2.effata.us.kg"
+pattern = "ava.game.naver.com.effata.us.kg"
 custom_domain = true
 
 [[routes]]
-pattern = "df.game.naver.com.id2.effata.us.kg"
+pattern = "df.game.naver.com.effata.us.kg"
 custom_domain = true
 
 [[routes]]
-pattern = "support.zoom.us.id2.effata.us.kg"
+pattern = "support.zoom.us.effata.us.kg"
 custom_domain = true
 
 [[routes]]
-pattern = "quiz.int.vidio.com.id2.effata.us.kg"
+pattern = "quiz.int.vidio.com.effata.us.kg"
 custom_domain = true
 
 [[routes]]
-pattern = "blog.webex.com.id2.effata.us.kg"
+pattern = "blog.webex.com.effata.us.kg"
 custom_domain = true
 
 [[routes]]
-pattern = "zaintest.vuclip.com.id2.effata.us.kg"
+pattern = "zaintest.vuclip.com.effata.us.kg"
 custom_domain = true
 
 [[routes]]
-pattern = "api.midtrans.com.id2.effata.us.kg"
+pattern = "api.midtrans.com.effata.us.kg"
 custom_domain = true
 
 [[routes]]
-pattern = "edu.ruangguru.com.id2.effata.us.kg"
+pattern = "edu.ruangguru.com.effata.us.kg"
 custom_domain = true
 
 [[routes]]
-pattern = "beta.zoom.us.id2.effata.us.kg"
+pattern = "beta.zoom.us.effata.us.kg"
 custom_domain = true
 
 [[routes]]
-pattern = "api.zoom.us.id2.effata.us.kg"
+pattern = "api.zoom.us.effata.us.kg"
 custom_domain = true
 
 [[routes]]
-pattern = "store.zoom.us.id2.effata.us.kg"
+pattern = "store.zoom.us.effata.us.kg"
 custom_domain = true
 
 [[routes]]
-pattern = "zoomgov.socifiles.com.id2.effata.us.kg"
+pattern = "zoomgov.socifiles.com.effata.us.kg"
 custom_domain = true
 
 [[routes]]
-pattern = "access.zoominfo.com.id2.effata.us.kg"
+pattern = "access.zoominfo.com.effata.us.kg"
 custom_domain = true
 
 [[routes]]
-pattern = "data.mt.id2.effata.us.kg"
+pattern = "data.mt.effata.us.kg"
 custom_domain = true
 
 [vars]
-PROXYIP = "43.133.145.156"
+PROXYIP = "172.104.170.159"
 UUID = "1d30fa45-9d31-4e81-a646-f8c7dbda0c65"
